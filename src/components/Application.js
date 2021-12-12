@@ -5,7 +5,7 @@ import DayList from "./DayList";
 import Appointment from "./Appointment";
 import axios from "axios";
 import { getAppointmentsForDay } from "../helpers/selectors";
-import { getInterview } from "../helpers/selectors";
+import { getInterview, getInterviewsForDay } from "../helpers/selectors";
 
 export default function Application(props) {
 
@@ -39,6 +39,7 @@ export default function Application(props) {
         id={appointment.id}
         time={appointment.time}
         interview={interview}
+        interviewers={getInterviewsForDay(state,state.day)}
       />
     );
   });
