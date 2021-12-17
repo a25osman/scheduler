@@ -14,6 +14,9 @@ Scheduler is an interviewer scheduler application for students to appointments w
 
 !["screenshot of Appointment Creation"]()
 
+!["screenshot of Cypress Testing"]()
+
+!["screenshot of Coverage Report"]()
 
 
 ## Setup
