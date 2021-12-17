@@ -6,17 +6,15 @@ Scheduler is an interviewer scheduler application for students to appointments w
 
 ## Final Product
 
-!["Screenshot of Interview Scheduler"]()
+!["Screenshot of Interview Scheduler"](https://github.com/a25osman/scheduler/blob/master/docs/Interview%20Scheduler%20Home%20Page.png?raw=true)
 
-!["screenshot of Appointment Deletion Confirmation"]()
+!["screenshot of Appointment Deletion Confirmation"](https://github.com/a25osman/scheduler/blob/master/docs/Interview%20Scheduler%20Appointment%20Deletion%20Confirmation.png?raw=true)
 
-!["screenshot of Appointment Deletion Transition"]()
+!["screenshot of Appointment Creation"](https://github.com/a25osman/scheduler/blob/master/docs/Interview%20Scheduler%20Appointment%20Creation.png?raw=true)
 
-!["screenshot of Appointment Creation"]()
+!["screenshot of Cypress Testing"](https://github.com/a25osman/scheduler/blob/master/docs/Interview%20Scheduler%20Cypress%20Testing.png?raw=true)
 
-!["screenshot of Cypress Testing"]()
-
-!["screenshot of Coverage Report"]()
+!["screenshot of Coverage Report"](https://github.com/a25osman/scheduler/blob/master/docs/Interview%20Scheduler%20Test%20Coverage.png?raw=true)
 
 
 ## Setup
